@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sun Mar 10 13:57:40 2024
-
-@author: Admin
+Author: Nagarajan.S
+Course: Python Programming
+Batch: 3.30 PM - 5.30 PM
+Descripton: BANK ATM SYSTEM
 """
 import datetime
 

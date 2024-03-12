@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+------------------------------ Welcome To SBI -----------------------------
+---------------------------------------------------------------------------
+Ac. Name: raj                                 2024-03-12 14:01:23.275898
+5746606361443946
+
+Initial Balance : 10000
+
+Balance before credit: 10000
+Total Balance after Deposit: 10045
+Total Balance after Deposit: 10078
+Total Balance after Deposit: 10113
+
+Balance before debit: 10113
+Total Balance after debit: 10068
+
+Total Balance after debit: 10034
+
+Total Balance after debit: 9998
+
+Final Balance after Transactions: 9998
+Interest Details @ 10% per Annum.
+Interest Amount: 999.8
+Total Balance: 10997.8
+---------------------------------------------------------------------------

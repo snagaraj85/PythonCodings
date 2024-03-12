@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon Mar 11 10:41:18 2024
-
-@author: Admin
+Author: Nagarajan.S
+Course: Python Programming
+Batch: 3.30 PM - 5.30 PM
+Descripton: Complex Password Generator
 """
 import random
 tempp=''

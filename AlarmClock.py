@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Sat Mar  9 16:29:45 2024
-
-@author: Admin
+Author: Nagarajan.S
+Course: Python Programming
+Batch: 3.30 PM - 5.30 PM
+Descripton: Alarm Clock
 """
 
 import winsound
