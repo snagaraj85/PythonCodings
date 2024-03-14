@@ -15,13 +15,14 @@ ug=[]
 while chance > 0:
     fail = 0
     if len(ug) == len(l1):
-        print("Correctly guessed letters: ",ug)
-        word = input("Enter the correct word which was guessed: ")
+        print("--------------------------------------------------")
+        print("You correctly guessed all letters in the word: ",ug)
+        word = input("Now enter the correct word which was guessed: ")
         if word != l1:
-            print("You Lost... The guessed word is ",l1)
+            print("You Lost... The guessed word is ","'",l1,"'")
             break
         else:
-            print("You Won.!!! The guessed word is ",l1)
+            print("You Won.!!! The guessed word is ","'",l1,"'")
             break
     print("Guess the word: ","_ "*le)
     ch = input("Enter a letter to guess: ")
@@ -39,7 +40,7 @@ while chance > 0:
         print(f"You have left with {chance} chances to try")
 
 if chance == 0:
-    print("You Lost...The guessed word is ",l1)
+    print("You Lost...The guessed word is ","'",l1,"'")
         
    
 
